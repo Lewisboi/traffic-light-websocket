@@ -1,0 +1,6 @@
+redis
+fastapi
+uvicorn[standard]
+websocket
+load_dotenv
+pydantic
